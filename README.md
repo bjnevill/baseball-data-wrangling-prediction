@@ -20,6 +20,6 @@ Can current batting statistics, age, batting hand and All-Star selection help pr
 Python · pandas · NumPy · Data Joins · Data Cleaning · Time-Aligned Targets · Feature Engineering · scikit-learn
 
 ## Source files
-The cleaned notebook package has been prepared separately. **The notebook has not yet been pushed to this repository.** Original course datasets are not redistributed.
+Open [`analysis.ipynb`](./analysis.ipynb) for the cleaned notebook and [`requirements.txt`](./requirements.txt) for dependencies. The original course datasets are not included, so execution requires separately obtained data. Original course datasets are not redistributed.
 
 *Educational analysis based on historical MLB data.*
